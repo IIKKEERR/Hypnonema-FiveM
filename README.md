@@ -13,7 +13,6 @@ EXAMPLE OF TWO LINES
 add_ace identifier.license: put licence here "command.hypnonema" allow #### 
 add_ace identifier.put your steam here "command.hypnonema" allow ####
 
-#neds 
+# dependences
 
-es_extended
-rp_chat
+Nothing 
